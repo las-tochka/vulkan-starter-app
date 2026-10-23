@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\d5b49a532ec06f30a2ff54a6ac4162ce\vk-bootstrap-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\d5b49a532ec06f30a2ff54a6ac4162ce\vk-bootstrap-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\d5b49a532ec06f30a2ff54a6ac4162ce\vk-bootstrap-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\d5b49a532ec06f30a2ff54a6ac4162ce\vk-bootstrap-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\d5b49a532ec06f30a2ff54a6ac4162ce\vk-bootstrap-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\d5b49a532ec06f30a2ff54a6ac4162ce\vk-bootstrap-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\d5b49a532ec06f30a2ff54a6ac4162ce\vk-bootstrap-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\d5b49a532ec06f30a2ff54a6ac4162ce\vk-bootstrap-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\a67dd93d57f14d57f5d621ed51c1f8b0\vk-bootstrap-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\a2a576d36fff167cddb1236061571426\vk-bootstrap-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\vk-bootstrap-subbuild\CMakeFiles\vk-bootstrap-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D22E1CE4-E9EF-3569-9C1C-20863CBD2FD5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

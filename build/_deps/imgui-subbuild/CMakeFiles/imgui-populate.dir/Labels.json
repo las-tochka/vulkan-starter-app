@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/db3506ec4d53629edffad9bef3249ac3/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/bcebf9d698a316932c67fdec4508082b/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/17ace6c751d751893fb4e2d76737f70c/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/17ace6c751d751893fb4e2d76737f70c/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/17ace6c751d751893fb4e2d76737f70c/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/17ace6c751d751893fb4e2d76737f70c/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/17ace6c751d751893fb4e2d76737f70c/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/17ace6c751d751893fb4e2d76737f70c/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/17ace6c751d751893fb4e2d76737f70c/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/imgui-subbuild/CMakeFiles/17ace6c751d751893fb4e2d76737f70c/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

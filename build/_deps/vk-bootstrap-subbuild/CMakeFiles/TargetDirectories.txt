@@ -1,0 +1,3 @@
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate.dir
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vk-bootstrap-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vk-bootstrap-subbuild/CMakeFiles/ZERO_CHECK.dir

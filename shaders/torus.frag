@@ -2,11 +2,11 @@
 layout(location = 0) in vec3 vertexColor;
 layout(location = 0) out vec4 outColor;
 
-layout(push_constant) uniform PushConstants {
+layout(set = 0, binding = 0) uniform ObjectData {
     mat4 mvp;
     vec4 tint;
-} pc;
+} ubo;
 
 void main() {
-    outColor = vec4(vertexColor * pc.tint.rgb, pc.tint.a);
+    outColor = vec4(vertexColor * ubo.tint.rgb, ubo.tint.a);
 }

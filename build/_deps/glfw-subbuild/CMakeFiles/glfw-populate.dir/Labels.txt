@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/780b13f297bef29ada9874e87536aa3d/glfw-populate.rule
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/9ee710b83e1dcdc1b3e07c1d08083a61/glfw-populate-complete.rule
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-build.rule
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-configure.rule
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-download.rule
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-install.rule
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-mkdir.rule
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-patch.rule
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-test.rule
+C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-update.rule

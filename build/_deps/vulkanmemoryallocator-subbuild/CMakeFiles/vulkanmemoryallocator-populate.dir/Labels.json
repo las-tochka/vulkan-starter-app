@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/vulkanmemoryallocator-populate"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/b22797fc84955c4ec62790cc4ef14604/vulkanmemoryallocator-populate.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/5e29b7b1fb14d438f95f69eb5c6db47c/vulkanmemoryallocator-populate-complete.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/06e69891757d9d731f75179cb558a894/vulkanmemoryallocator-populate-build.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/06e69891757d9d731f75179cb558a894/vulkanmemoryallocator-populate-configure.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/06e69891757d9d731f75179cb558a894/vulkanmemoryallocator-populate-download.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/06e69891757d9d731f75179cb558a894/vulkanmemoryallocator-populate-install.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/06e69891757d9d731f75179cb558a894/vulkanmemoryallocator-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/06e69891757d9d731f75179cb558a894/vulkanmemoryallocator-populate-patch.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/06e69891757d9d731f75179cb558a894/vulkanmemoryallocator-populate-test.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/06e69891757d9d731f75179cb558a894/vulkanmemoryallocator-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vulkanmemoryallocator-populate"
+		],
+		"name" : "vulkanmemoryallocator-populate"
+	}
+}

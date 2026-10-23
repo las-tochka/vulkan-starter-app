@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\glfw-subbuild\CMakeFiles\780b13f297bef29ada9874e87536aa3d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0134E88E-FAE3-35ED-92E8-DBEBDCB3E607}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

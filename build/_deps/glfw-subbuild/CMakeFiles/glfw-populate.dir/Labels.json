@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/780b13f297bef29ada9874e87536aa3d/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/9ee710b83e1dcdc1b3e07c1d08083a61/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/CMakeFiles/ee6e4f69493293823b28594cf0b8a326/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\17ace6c751d751893fb4e2d76737f70c\imgui-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\17ace6c751d751893fb4e2d76737f70c\imgui-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\17ace6c751d751893fb4e2d76737f70c\imgui-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\17ace6c751d751893fb4e2d76737f70c\imgui-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\17ace6c751d751893fb4e2d76737f70c\imgui-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\17ace6c751d751893fb4e2d76737f70c\imgui-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\17ace6c751d751893fb4e2d76737f70c\imgui-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\17ace6c751d751893fb4e2d76737f70c\imgui-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\bcebf9d698a316932c67fdec4508082b\imgui-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\db3506ec4d53629edffad9bef3249ac3\imgui-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\MyProjects\5_semester\compgraf\vulkan-starter-app\build\_deps\imgui-subbuild\CMakeFiles\imgui-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0CCC0879-B709-300A-AB46-2A3ED5552E40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

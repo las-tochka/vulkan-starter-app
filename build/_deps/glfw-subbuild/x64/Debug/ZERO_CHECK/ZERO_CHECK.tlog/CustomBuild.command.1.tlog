@@ -1,0 +1,10 @@
+^C:\MYPROJECTS\5_SEMESTER\COMPGRAF\VULKAN-STARTER-APP\BUILD\_DEPS\GLFW-SUBBUILD\CMAKEFILES\780B13F297BEF29ADA9874E87536AA3D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild -BC:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/MyProjects/5_semester/compgraf/vulkan-starter-app/build/_deps/glfw-subbuild/glfw-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
